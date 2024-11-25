@@ -18,9 +18,9 @@ To run any of the exercises, you need to modify the `pubspec.yaml` file to speci
 1. Open the `pubspec.yaml` file.
 2. Modify the `name` field to the name of the exercise file you want to run (without the `.dart` extension).
 
-For example, to run the `participante.dart` exercise, change the `name` field in `pubspec.yaml` to:
+For example, to run the `validapagamento.dart` exercise, change the `name` field in `pubspec.yaml` to:
 ```yaml
-name: participante
+name: validapagamento
 ```
 3. Save the 'pubspec.yaml' file.
 4. Run the exercise using the Dart command:
@@ -30,7 +30,7 @@ dart run
 ### Visual Guide
 
 Refer to visual guide on modifying the 'pubspec.yaml' file:
-(/assets/setapubspec.png)
+![Modify pubspec.yaml](assets/setapubspec.png)
 
 ## List of Exercises
 
