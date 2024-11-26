@@ -23,7 +23,8 @@ For example, to run the `validapagamento.dart` exercise, change the `name` field
 name: validapagamento
 ```
 3. Save the 'pubspec.yaml' file.
-4. Run the exercise using the Dart command:
+4. Make sure the .dart file is located in the bin directory.
+5. Run the exercise using the Dart command:
 ```bash
 dart run
 ```
